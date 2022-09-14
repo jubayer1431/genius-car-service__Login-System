@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4418b7d0-be69-43f3-b206-857b1e2d6ae6" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DhIen8C71xuiUedKX2gp8IiXtM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Project.color&quot;: &quot;2a4527&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/hridoy/WebstormProjects/ema-john-49&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;/home/hridoy/.nvm/versions/node/v18.4.0/lib/node_modules/prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/jetbrains/WebStorm-2022.2/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
+      <recent name="$PROJECT_DIR$/src/components/Header" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4418b7d0-be69-43f3-b206-857b1e2d6ae6" name="Changes" comment="" />
+      <created>1661144986687</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661144986687</updated>
+      <workItem from="1661144988321" duration="3011000" />
+      <workItem from="1661149803964" duration="1752000" />
+      <workItem from="1661158407829" duration="21000" />
+      <workItem from="1661160999839" duration="307000" />
+      <workItem from="1661186864426" duration="59000" />
+      <workItem from="1661191164690" duration="1989000" />
+      <workItem from="1661218779264" duration="2273000" />
+      <workItem from="1661227418408" duration="9172000" />
+      <workItem from="1661241259589" duration="551000" />
+      <workItem from="1661266913748" duration="230000" />
+      <workItem from="1661299456083" duration="961000" />
+      <workItem from="1661688110622" duration="1341000" />
+      <workItem from="1661690543914" duration="4475000" />
+      <workItem from="1661698321197" duration="5531000" />
+      <workItem from="1661746060445" duration="2362000" />
+      <workItem from="1661773167388" duration="1244000" />
+      <workItem from="1661786543504" duration="611000" />
+      <workItem from="1662643722414" duration="634000" />
+      <workItem from="1662647863840" duration="2067000" />
+      <workItem from="1662651707491" duration="5736000" />
+      <workItem from="1662663754048" duration="599000" />
+      <workItem from="1662669040086" duration="1202000" />
+      <workItem from="1662673797620" duration="987000" />
+      <workItem from="1662698859618" duration="599000" />
+      <workItem from="1662734551356" duration="3358000" />
+      <workItem from="1662747616690" duration="1744000" />
+      <workItem from="1662758300724" duration="892000" />
+      <workItem from="1662784629814" duration="2825000" />
+      <workItem from="1662817171719" duration="381000" />
+      <workItem from="1662822086266" duration="486000" />
+      <workItem from="1662836299347" duration="1660000" />
+      <workItem from="1662861066928" duration="1071000" />
+      <workItem from="1662866294118" duration="1706000" />
+      <workItem from="1662906361300" duration="186000" />
+      <workItem from="1662906578839" duration="5105000" />
+      <workItem from="1662917505973" duration="3741000" />
+      <workItem from="1662923094188" duration="4974000" />
+      <workItem from="1662945917245" duration="2676000" />
+      <workItem from="1662961374027" duration="1462000" />
+      <workItem from="1662963677018" duration="369000" />
+      <workItem from="1662964095162" duration="1951000" />
+      <workItem from="1662969943075" duration="11000" />
+      <workItem from="1663001665752" duration="5221000" />
+      <workItem from="1663008861922" duration="5000" />
+      <workItem from="1663028995715" duration="3365000" />
+      <workItem from="1663033734403" duration="1767000" />
+      <workItem from="1663048458314" duration="2560000" />
+      <workItem from="1663060282791" duration="637000" />
+      <workItem from="1663061680744" duration="8000" />
+      <workItem from="1663112198462" duration="3638000" />
+      <workItem from="1663129278771" duration="3181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
